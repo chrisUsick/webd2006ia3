@@ -1,0 +1,44 @@
+body{
+    background: url(cigar2.jpg) no-repeat;
+    background-size: cover;
+}
+
+.yes {
+    color: black;
+    background-color: #0f0;
+}
+.no {
+    color: white;
+    background-color: #f00;
+}
+h1 {
+    text-align: center;
+    font-family: Trebuchet MS;
+}
+
+article {
+    border: 10px outset #7A2900;
+    background: #930;
+    margin: 10px auto;
+    width: 800px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Verdana;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+table {
+    color: white;
+    margin: auto;
+    margin-bottom:25px;
+}
+
+td, th {
+border: 3px solid #7A2900;
+    padding: 5px;
+    text-align: center;
+}
